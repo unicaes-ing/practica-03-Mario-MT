@@ -156,7 +156,7 @@ namespace Practica3CS
                 default:
                     break;
             }
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
